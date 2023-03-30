@@ -1,0 +1,6 @@
+0 alphabet_A
+1 alphabet_B
+2 alphabet_C
+3 numeric_1
+4 numeric_2
+5 numeric_3
